@@ -18,9 +18,13 @@ explore advanced topics, and ultimately grow into a capable software developer.
 My Goals
 
 #TODO    Learn the fundamentals of Python.
+
 #TODO    Build real-world projects to demonstrate my skills.
+
 #TODO    Document my progress daily, sharing what I learn.
+
 #TODO    Contribute to open-source projects and collaborate with the developer community.
+
 
 How You Can Support Me
 
