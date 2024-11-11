@@ -29,3 +29,7 @@ My Goals
 How You Can Support Me
 
 Follow my journey, provide feedback, and share insights. Together, we can learn and grow!
+
+P.S
+Days 1-15 where mostly just learning the basics and syntax. 
+I'll be uploading on days that had projects and challanges where I had to build the project on my own.
