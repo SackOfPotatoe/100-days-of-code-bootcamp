@@ -1,0 +1,8 @@
+Notes = """
+  Makes a passphrase and can save to a username/email for a website. 
+  The first password you make for the program will make a salt and hash so dont forget it or you saves will be locked away. 
+  data file can be found after you run the program for the first time in C:\Temp\Data_saves. 
+  all the files in the files will be encrypted.
+  
+  PS if your a hacker or security pen tester. 
+  I would love your feed back i highly doubt my noob but did great but i feel like its pretty good."""
